@@ -13,7 +13,7 @@ module.exports = {
       options: {
         typeName: 'Project',
         path: 'projects/**/*.md',
-        route: '/:slug'
+        route: '/portfolio/:slug'
       }
     }
   ],
